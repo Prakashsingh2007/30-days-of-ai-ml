@@ -1,38 +1,12 @@
-# AI Engineering
+# 30 Days of AI & Machine Learning
 
-This repository contains my complete AI Engineering learning journey.
+A structured 30-day journey covering:
+- NumPy
+- Pandas
+- Matplotlib
+- Machine Learning
+- PyTorch
+- Transformers
+- Deep Learning
 
-## Roadmap
-
-- Phase 0 - Environment Setup
-- Phase 1 - Python AI Toolkit
-- Phase 2 - Machine Learning
-- Phase 3 - Deep Learning
-- Phase 4 - Transformers
-- Phase 5 - Large Language Models
-- Phase 6 - AI Agents
-
----
-
-Learning Style
-
-Theory
-↓
-
-Hands-on
-
-↓
-
-Practice
-
-↓
-
-Mini Project
-
-↓
-
-Revision
-
-↓
-
-Real Project
+Each day's notebook documents concepts, code examples, and hands-on exercises.
